@@ -1,0 +1,131 @@
+CERTIFICAÇÃO OFICIAL em Java, PMBOK, Oracle, Pontos por Função, ITIL ou COBIT.
+
+Cargo/Função: Analista Júnior / Desenvolvimento 
+-Conceitos fundamentais sobre processamento de dados. 
+-Sistemas de numeração, aritmética e complementos e ponto flutuante. 
+-Organização e arquitetura e componentes funcionais de computadores. 
+-Características físicas dos principais periféricos e dispositivos de armazenamento secundário. 
+-Representação e armazenamento da informação. 
+-Organização lógica e física de arquivos. 
+-Métodos de acesso. 
+-Lógica de programação: construção de algoritmos, tipos de dados simples e estruturados, variáveis 
+e constantes, comandos de atribuição, avaliação de expressões, comandos de entrada e saída, funções 
+pré-definidas, conceito de bloco de comandos, estruturas de controle, subprogramação, passagem de 
+parâmetros, recursividade; programação estruturada. Estrutura de dados: conceitos básicos sobre tipos 
+abstratos de dados, estruturas lineares e não-lineares, contiguidade versus encadeamento, vetores e 
+matrizes, estudo de listas, pilhas, filas, árvores, deques, métodos de busca, inserção e ordenação, hashing. 
+-Orientação a objetos: conceitos fundamentais, princípios de programação orientada a objetos, classes, 
+objetos, métodos, mensagens, sobrecarga, herança, polimorfismo, interfaces e pacotes, tratamento de 
+exceção. 
+-Linguagem orientada a objetos: Java e C++. 
+-Desenvolvimento de aplicações e banco de dados: princípios de engenharia de software. Ciclo de vida de um software-produto. 
+-Ciclo de desenvolvimento de software. 
+-Análise e técnicas de levantamento de requisitos. 
+-Metodologias de análise e projeto de sistemas. 
+-Técnicas e estratégias de validação. 
+-Conceitos de gerência de projetos. 
+-Visão conceitual sobre ferramentas CASE. 
+-Projeto de interfaces. 
+-Análise e projeto orientado a objetos. 
+-Conceitos básicos sobre o Processo Unificado. 
+-Conhecimento sobre UML. 
+-Conceitos de qualidade de software: normas ISO, CMMI e MPS-BR. 
+-Modelagem de dados: classes e pacotes. 
+-Modelagem de casos de uso. 
+-Modelagem temporal: estados, sequências, atividades, colaboração. 
+-Modelagem de dados e projeto lógico para ambiente relacional. 
+-Modelo de entidade e relacionamento. 
+-Mapeamento de cardinalidade. 
+-Chaves de entidades. 
+-Autorelacionamento. 
+-Agregação. 
+-Mapeamento de restrições de integridade. 
+-Generalização e especialização. 
+-Normalização. 
+-Álgebra relacional. 
+-Padrão SQL. 
+-Arquitetura orientada a serviço (SOA): modelo de referência MVC (Model, View, Control). 
+-Arquitetura OLAP. Comunicação de dados, redes e conectividade: redes de computadores, Arquitetura TCP/IP.
+
+
+Cargo/Função: Analista Sênior / Desenvolvimento / Atendimento ao Cliente 
+-Evolução de tecnologias, de conceitos de aplicações, de processos de desenvolvimento e gestão, 
+características e recomendações de tecnologias, aspectos gerais de modelos de maturidade (Mps.Br e 
+CMMI) e de gerenciamento de projetos (PMBOK), normas de qualidade de software, certificação digital, 
+segurança de informação, características de sistemas operacionais e tipos de ambientes. 
+-Ciclos de vida de desenvolvimento de software. 
+-Processo RUP – Processo Unificado: conceitos e estrutura do processo, disciplinas, fases, marcos, iterações, aplicações e recomendações. 
+-Ferramentas UML: objetivos, recomendações de uso, descrição e representação. 
+-Análise e projeto orientado a objetos: conceitos de objetos, classes, métodos, relacionamentos e propriedades. -Melhoria de processo de software: modelos Mps.Br e CMMI, estrutura, conceitos, componentes do modelo. Métricas de software. 
+-Estimativa e medição de tamanho de software, pontos de função. 
+-Metodologias ágeis de desenvolvimento de software. 
+-Lógica de programação e linguagens e ambientes para programação orientada a objetos: J2EE. 
+-Eclipse Projeto de Banco de Dados relacionais. 
+-Arquitetura J2EE. 
+-Arquitetura orientada a serviços (SOA) e Web Services: conceitos básicos e aplicações. 
+-Soluções de suporte à decisão: Business Inteligence (BI), modelagem multidimensional, ferramentas de extração e tratamento de informações, indicação de uso e características. 
+-Sistemas de informações geográficas (GIS): conceitos, indicação de uso, características, tecnologias 
+envolvidas, arquitetura das soluções. 
+-Tecnologias para dispositivos móveis: características e recomendações de uso. 
+-Gestão estratégica de TIC e alinhamento de TIC com planejamento estratégico: conceitos e técnicas. 
+-Análise de negócio: conceitos básicos, técnicas de análise e modelagem de processos de negócio, BABOK versão 2 (Business Analysis Body of Knowledge), estrutura, conceitos e aplicação, BPM – Busiess Process Modeling, Workflow e gerenciamento eletrônico de conteúdo. 
+-Convergência de tecnologias para desenho de soluções. 
+-Engenharia de requisitos: conceitos básicos, técnicas de elicitação de requisitos, especificação de requisitos e gerenciamento de requisitos. 
+-Gerência de serviços de TIC: conceitos básicos de COBIT (versão 5) e ITIL (versão 3). 
+-Gestão de projetos: PMBOK (4ª edição) conceitos e fundamentos. 
+-Estrutura, ciclo de vida e organização do gerenciamento de projetos. 
+-Contratação de bens e serviços de TIC: modelo Mps.Br – aquisição, elaboração de termo de referência para contratação de bens e serviços de TIC, orçamentação, medição e aceitação de serviços, acompanhamentos de contratos de TIC. 
+-Segurança e auditoria de sistemas de informações. 
+-Marketing em serviços de TIC.
+
+
+CONTEÚDO PROGRAMÁTICO 
+FUNÇÕES DE NÍVEL SUPERIOR 
+LÍNGUA PORTUGUESA 
+-Compreensão e interpretação de textos, com elevado grau de complexidade, incluindo textos de divulgação 
+científica. 
+-Reconhecimento da finalidade de textos de diferentes gêneros. 
+-Localização de informações explícitas no texto. 
+-Inferência de sentido de palavras e/ou expressões. 
+-Inferência de informações do texto e das relações de causa e consequência entre suas partes. 
+-Distinção entre fato e opinião sobre esse fato. 
+-Interpretação de linguagem não verbal (tabelas, fotos, quadrinhos). 
+-Reconhecimento das relações lógicodiscursivas presentes no texto, marcadas por conjunções, advérbios, locuções e preposições. 
+-Reconhecimento das relações entre partes de um texto, identificando repetições ou substituições que 
+contribuem para sua continuidade. 
+-Identificação de efeitos de ironia ou humor em textos variados. 
+-Reconhecimento de efeitos de sentido decorrentes do uso de pontuação, da exploração de recursos 
+ortográficos e/ou morfossintáticos (concordância e regência; reconhecimento dos termos da oração). 
+-Identificação de diferentes estratégias que contribuem para a continuidade do texto (anáforas, pronomes 
+relativos e demonstrativos). 
+-Ambiguidade e paráfrase; sinonímia, antonímia e reconhecimento de campos semânticos. 
+
+MATEMÁTICA E RACIOCÍNIO LÓGICO
+-Operações com números naturais, inteiros, fracionários e decimais: operações, expressões numéricas, 
+expressões fracionárias. 
+-Conjuntos e suas operações. 
+-Razão e proporção. 
+-Regra de três simples e composta. 
+-Porcentagem e juros. 
+-Sistemas de medidas e de tempo. 
+-Equações de primeiro e segundo graus; sistemas de equações lineares. 
+-Formas geométricas básicas. 
+-Perímetros, área e volume de figuras geométricas. 
+-Funções: gráficos e tabelas. 
+-Introdução à análise combinatória: problemas que envolvam contagem (permutação simples, arranjo simples e combinação simples). 
+-Probabilidade. 
+-Raciocínio lógico, envolvendo problemas aritméticos, geométricos e matriciais. 
+-Estruturas lógicas. 
+-Lógica de argumentação: analogias, inferências, deduções e conclusões. 
+-Lógica sentencial (ou proposicional): proposições simples e compostas; tabelas-verdade; equivalências; Leis De Morgan; diagramas lógicos. 
+
+ATUALIDADES
+-Noções gerais sobre temas da vida econômica, política e cultural do Paraná, do Brasil e do Mundo. 
+-O debate sobre as políticas públicas para o meio ambiente, saúde, educação, trabalho, segurança, assistência 
+social e juventude. 
+-Ética e Cidadania. 
+-Aspectos relevantes das relações entre os Estados e Povos. 
+
+ECA
+-Estatuto da Criança e do Adolescente – ECA (Lei no 8.069/1990 e suas alterações): Parte Geral: Título I – 
+Das Disposições Preliminares; Título II – Dos Direitos Fundamentais.
